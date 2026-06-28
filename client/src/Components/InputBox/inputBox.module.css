@@ -1,0 +1,17 @@
+.pageWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.box {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.5rem;
+    padding: 1.5rem 2rem;
+    background-color: #2c2c2c;
+    border-radius: 1.2rem;
+    border: 1px solid #3a3a3a;
+}
